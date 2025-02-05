@@ -1,1 +1,1 @@
-A "Odin project" project that contains both a shortest path knight algorithm and a binary search tree.
+A shortest path knight algorithm and functions for constructing and navigating a binary search tree.
